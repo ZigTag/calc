@@ -1,3 +1,3 @@
 # console-calculator
 
-A small console calculator that isn't very thought out. Planning on rewriting in Rust, may or may not happen. Stay tuned...
+A small console calculator that isn't very thought out. Probabaly very inefficient.
