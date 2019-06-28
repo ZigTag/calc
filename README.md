@@ -2,5 +2,5 @@
 
 Atm working on learning rust, so I will probabaly rewrite it in rust when im done learning it
 
-* TODO: Learn Rust
-* TODO: Rewrite in Rust
+* TODO: Learn Rust: ***In Progress***
+* TODO: Rewrite in Rust: ***In Progress***
