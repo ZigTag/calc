@@ -1,6 +1,9 @@
-# console-calculator
+# Welcome to CALC
 
-Atm working on learning rust, so I will probabaly rewrite it in rust when im done learning it
+**CA**sual **L**eightweight **C**alculator
 
-* TODO: Learn Rust: ***In Progress***
-* TODO: Rewrite in Rust: ***In Progress***
+CALC is an easy to use calculator, I am making this in my free time.
+
+## Dependencies
+
+* Rust
