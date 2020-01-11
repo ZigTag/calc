@@ -1,3 +1,9 @@
-# console-calculator
+# Welcome to CALC
 
-A small console calculator that isn't very thought out. Probabaly very inefficient.
+**CA**sual **L**eightweight **C**alculator
+
+CALC is an easy to use calculator, I am making this in my free time.
+
+## Dependencies
+
+* Rust
